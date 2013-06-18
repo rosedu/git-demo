@@ -1,1 +1,1 @@
-Mihai Maruseac, 2013
+Mihai Maruseac, OSSS 2013
