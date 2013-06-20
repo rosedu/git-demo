@@ -1,6 +1,1 @@
-Added before
-The answer to life, Universe and everything is 42
-
-
-Another line
-Added after
+The answer to life, Ust on the new branch.stniverse and everything is 42
