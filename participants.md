@@ -12,3 +12,5 @@ Timur Bagas, OSSS 2013
 Florea Alexandru - Ionut, OSSS 2013
 Branescu Adrian, OSSS 2013
 Constantinescu Radu, OSSS 2013
+Remus Mazilu, OSSS 2013
+Alexandru Costin Roman, OSSS 2013
