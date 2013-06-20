@@ -7,3 +7,4 @@ Jalba Cristian, OSSS 2013
 Andrei Tuicu, OSSS 2013
 Manica Vlad Bogdan, OSSS 2013
 Victor Mitris, OSSS 2013
+Georgiana Chelu, OSSS 2013
