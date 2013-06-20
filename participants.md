@@ -5,3 +5,4 @@ Antonache Emanuel Adrian, OSSS 2013
 Florea Alexandru, OSSS 2013
 Jalba Cristian, OSSS 2013
 Andrei Tuicu, OSSS 2013
+Manica Vlad Bogdan, OSSS 2013
